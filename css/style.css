@@ -343,14 +343,15 @@ button {
 /** banner section **/
 
 .banner_main {
-     background: url(../images/banner.jpg);
+     background: url(../images/kalman.png);
      background-repeat: no-repeat;
+     background-position: center;
      min-height: 700px;
      display: flex;
      justify-content: center;
      align-content: center;
      align-items: center;
-     background-size: 100% 100%;
+    
 }
 
 .text-bg {
